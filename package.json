@@ -1,0 +1,29 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "TS katas I processed with source links and the rules reminders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlahaye/TS-Jest-kata-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlahaye/TS-Jest-kata-starter/issues"
+  },
+  "homepage": "https://github.com/dlahaye/TS-Jest-kata-starter#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.7",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1"
+  }
+}
