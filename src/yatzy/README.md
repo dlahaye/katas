@@ -9,11 +9,11 @@ Each player rolls five six-sided dice.
 The player places the roll in a `category`, such as `ones`, `twos`, `fives`, `pair`, `two pairs` etc (see below).
 
 - If the roll is compatible with the category, the player gets a score for the roll according to the rules.
-- If the roll is not compatible with the category, the player scores `zero` for the roll.
+- If the roll is not compatible with the category, the player scores 0 for the roll.
 
 For example, if a player rolls `5,6,5,5,2` and scores the dice in the `fives` category they would score 15 (3 fives).
 
-Your task is to score a GIVEN `roll` in a GIVEN `category`.
+Your task is to score a **GIVEN** `roll` in a **GIVEN** `category`.
 - You do NOT have to program the random dice rolling.
 - You do NOT have to program re-rolls (as in the real game).
 - You do NOT play by letting the computer choose the highest scoring category for a given roll.
